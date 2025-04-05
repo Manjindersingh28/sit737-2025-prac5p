@@ -1,0 +1,12 @@
+{"level":"info","message":"Received (n1, n2) => n1 / n2 request with n1=10, n2=45","service":"calculator-microservice"}
+{"level":"info","message":"Result of (n1, n2) => n1 / n2: 0.2222222222222222","service":"calculator-microservice"}
+{"level":"info","message":"Received (n1, n2) => n1 / n2 request with n1=10, n2=0","service":"calculator-microservice"}
+{"level":"info","message":"Result of (n1, n2) => n1 / n2: Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Received (n1, n2) => n1 / n2 request with n1=10, n2=0","service":"calculator-microservice"}
+{"level":"info","message":"Result of (n1, n2) => n1 / n2: Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Received (n1, n2) => n1 / n2 request with n1=10, n2=90","service":"calculator-microservice"}
+{"level":"info","message":"Result of (n1, n2) => n1 / n2: 0.1111111111111111","service":"calculator-microservice"}
+{"level":"info","message":"Received (n1, n2) => n1 / n2 request with n1=10, n2=0","service":"calculator-microservice"}
+{"level":"info","message":"Result of (n1, n2) => n1 / n2: Infinity","service":"calculator-microservice"}
+{"level":"info","message":"Received (n1, n2) => n1 / n2 request with n1=10, n2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Error in (n1, n2) => n1 / n2: n2 incorrectly defined","service":"calculator-microservice"}

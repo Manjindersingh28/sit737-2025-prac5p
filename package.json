@@ -1,0 +1,15 @@
+{
+  "name": "week_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manjinder_singh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}
